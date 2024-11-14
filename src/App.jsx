@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
-import './app.css';
 import Auth from './component/Auth';
 import ProductList from './component/ProductList';
 import ProductCreate from './component/ProductCreate';
